@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyTasks</string>
+    <string name="add_task_details">Add Task Details</string>
+    <string name="update_task_details">Update Task Details</string>
+    <string name="completed">Completed</string>
+    <string name="deadline">Deadline: %1$s</string>
+    <string name="title_can_not_be_empty">Title can not be empty!!</string>
+    <string name="deadline_can_not_be_empty">Deadline can not be empty!!</string>
+    <string name="add_task">Add Task</string>
+    <string name="update_task">Update Task</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_tasks_found">No tasks Found!</string>
+    <string name="password">Password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="show_password">Show password</string>
+    <string name="all">All</string>
+    <string name="pending">Pending</string>
+    <string name="high_priority">High Priority</string>
+    <string name="my_tasks">My Tasks</string>
+    <string name="press_back_again_to_exit">Press back again to exit</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+</resources>
